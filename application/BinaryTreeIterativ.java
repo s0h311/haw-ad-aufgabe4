@@ -1,8 +1,8 @@
-package BaumeTraversieren; 
+package application;
 
 import java.util.Stack; 
 
-public class BinaryTree_iterativ{ 
+public class BinaryTreeIterativ {
 
     // Iterative Preorder Traversierung
     public String iterativePreorder(TreeNode root) { 

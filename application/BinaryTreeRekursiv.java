@@ -1,5 +1,5 @@
-package BaumeTraversieren; 
-public class BinaryTree_rekirsiv { 
+package application;
+public class BinaryTreeRekursiv {
 
     
     public String preorder(TreeNode root) { 

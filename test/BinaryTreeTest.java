@@ -1,4 +1,4 @@
-package Test;
+package test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
@@ -7,11 +7,11 @@ import java.util.Arrays;
 
 import org.junit.jupiter.api.Test;
 
-import BaumeTraversieren.BinaryTree_iterativ;
-import BaumeTraversieren.TreeNode;
+import application.BinaryTreeIterativ;
+import application.TreeNode;
 
 public class BinaryTreeTest {
-	private BinaryTree_iterativ binaryTree = new BinaryTree_iterativ(); 
+	private BinaryTreeIterativ binaryTree = new BinaryTreeIterativ();
 
     
     private ArrayList<Integer> toList(String s) {

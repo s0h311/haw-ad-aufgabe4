@@ -1,4 +1,4 @@
-package BaumeTraversieren; 
+package application;
 
 public class TreeNode { 
     int value; 
